@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Productivity Extensions",
+  "description": "Base Level Extension of the world",
+  "version": "1.0",
+  "action": {
+    "default_popup": "productivity.html",
+    "default_icon": "productivity.png"
+  }
+}
